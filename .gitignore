@@ -1,0 +1,66 @@
+# Node.js
+frontend/node_modules/
+frontend/.next/
+
+# Logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Dependency directories
+frontend/.pnp/
+frontend/.pnp.js
+
+# Production
+frontend/build/
+
+# Misc
+frontend/.DS_Store
+frontend/*.pem
+
+# Environment variables
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Output of 'yarn test' or 'npm test'
+frontend/coverage/
+
+# TypeScript cache
+frontend/.tsbuildinfo
+
+# IDE specific directories
+frontend/.idea/
+frontend/.vscode/
+frontend/*.iml
+
+# Python
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/.python-version
+
+# CPython Files
+backend/build/
+backend/develop-eggs/
+backend/dist/
+backend/eggs/
+backend/.eggs/
+backend/lib/
+backend/lib64/
+backend/parts/
+backend/sdist/
+backend/var/
+backend/wheels/
+backend/share/python-wheels/
+backend/.installed.cfg
+backend/*.egg-info/
+backend/.eggs/
+
+# Env files
+backend/.env
+
+# Virtual environment
+backend/venv/
+env/
